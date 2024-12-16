@@ -9,7 +9,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #6563ff;
+    background: rgb(131, 243, 231);
     font-family: 'Poppins', sans-serif;
 }
 
@@ -17,8 +17,8 @@ body {
     height: 450px;
     width: 400px;
     padding: 20px;
-    background: #f8f8f8;
-    border-radius: 10px;
+    background: linear-gradient(#f15467, #8476f4, #b0ebc1);
+    border-radius: 20px;
 }
 
 .cards {
@@ -41,8 +41,8 @@ body {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: white;
-    border-radius: 7px;
+    background: rgb(165, 165, 238);
+    border-radius: 10px;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
     backface-visibility: hidden;
     transition: transform 0.5s;
@@ -55,8 +55,8 @@ body {
 }
 
 .front-view .material-icons {
-    font-size: 40px;
-    color: #6563ff;
+    font-size: 35px;
+    color: #ecebec;
 }
 
 .back-view {
