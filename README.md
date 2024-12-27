@@ -1,6 +1,8 @@
 # Memory_Game_Using_JavaScript.github.io
 Overview
 
+Disclaimer : This project is made with the help of Tutorial and I add some features and changed its User interface also take help of Ai to solve only error in projects.
+
 The Memory Card Game is a fun and engaging game that challenges players to test their memory skills. The objective is to match pairs of cards by flipping them over and remembering their positions.
 
 How to Play
